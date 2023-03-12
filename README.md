@@ -7,3 +7,10 @@
 -------------
 # Rabania
 - I like Bash scripting because it is amazing.
+----------------
+# Haward
+- Linux course review
+- User account management, system management, 
+- Bash shell scripting,
+- System configuration.
+- Storage and network management
