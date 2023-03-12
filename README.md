@@ -14,3 +14,7 @@
 - Bash shell scripting,
 - System configuration.
 - Storage and network management
+---------------------------------------------
+# Maxime
+- I can't wait to finish this training so i can be a fully DevOpps admin
+- The linux class was good but at some point scaring and brutal especially storage management
