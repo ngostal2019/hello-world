@@ -4,3 +4,6 @@
 - I work on DevOps as a Junior at DataService Group Inc since 3 years ago to ensure the devices and the Servers management.
 - Moreover, I work on common projects on a specific DevOps pipeline with an amazing team, using git-github or Bitbucket-Jenkins-Nexus and Ansible to also ensure the CI/CD of our applications to the end-users.
 - Today march 12 2023 we will learn branch protection and Jenkins CI
+-------------
+# Rabania
+- I like Bash scripting because it is amazing.
