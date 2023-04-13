@@ -20,7 +20,7 @@
 - The linux class was good but at some point scaring and brutal especially storage management
 ----------------
 # Ozoya
-- The Linux course was a terrible nightmare and a pain in the ass
-- Now we are in DevOps another pain in the butt
-- When is this bout gonna be over
-- I can't wait to see this class coming to an end so that I can breath
+- The Linux course was great but appeared difficult and my teacher Stan made it enjoyable
+- The voyage of DevOps is amazing and magical
+- The introduction of Terraform is inexplicable
+- This journey so far is adventurous as we keep learning new stuffs
